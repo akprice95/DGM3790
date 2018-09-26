@@ -71,6 +71,10 @@
 
 <script>
 import HelloWorld from './components/HelloWorld'
+import Header from './components/HelloWorld'
+import servers from'./components/HelloWorld'
+import serverDetails from './components/HelloWorld'
+import footer from'./components/HelloWorld'
 
 export default {
   name: 'App',
