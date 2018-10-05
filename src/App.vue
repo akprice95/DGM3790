@@ -1,17 +1,17 @@
 <template>
  <div>
-   <header>header</header>
+   <header>daHeader</header>
      <hr/>
  </div>
 
 </template>
 //adding comment to check gitKraken
 <script>
-import HelloWorld from './components/HelloWorld'
-import daHeader from './components/daHeader'
-import servers from'./components/servers'
-import serverDetails from './components/serverDetails'
-import daFooter from'./components/daFooter'
+import HelloWorld from './components/HelloWorld.vue'
+import daHeader from './components/daHeader.vue'
+import servers from'./components/servers.vue'
+import serverDetails from './components/serverDetails.vue'
+import daFooter from'./components/daFooter.vue'
 
 export default {
   name: 'App',
