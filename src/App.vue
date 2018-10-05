@@ -5,7 +5,7 @@
  </div>
 
 </template>
-
+//adding comment to check gitKraken
 <script>
 import HelloWorld from './components/HelloWorld'
 import daHeader from './components/daHeader'
