@@ -1,12 +1,3 @@
 <template>
-    <ul>
-        <li>Server #1</li>
-        <li>Server #2</li>
-        <li>Server #3</li>
-        <li>Server #4 </li>
-        <li>Server #5</li>
-        
-       
-        
-    </ul>
+    <p>This server is up and running</p>
 </template>
