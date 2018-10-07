@@ -5,7 +5,7 @@
     <v-flex xs12 sm6 offset-sm3>
       <v-card>
         <v-toolbar color="black" dark>
-          <v-toolbar-side-icon></v-toolbar-side-icon>
+          <v-icon>build</v-icon>
           
 
           <da-header>Inbox</da-header>
